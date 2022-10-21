@@ -17,7 +17,3 @@ I recreated it ground up using only Vue 3.
 [![Audit Test](https://i.imgur.com/ksV0Hrp.png)](https://i.imgur.com/ksV0Hrp.png)
 
 
-Site Link: https://www.Antonio.ml
-<img src="https://i.ibb.co/jvCW0KT/image.png" width="100%" alt="image" border="0">
-<img src="https://i.ibb.co/FqYCKNV/image.png" width="100%" alt="image" border="0">
-<img src="https://i.ibb.co/d0NgXr9/image.png" width="100%" alt="image" border="0">
